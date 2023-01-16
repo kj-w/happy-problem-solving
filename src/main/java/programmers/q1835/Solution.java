@@ -1,5 +1,7 @@
 package programmers.q1835;
 
+/** https://school.programmers.co.kr/learn/courses/30/lessons/1835 */
+/** 단체사진 찍기 */
 public class Solution {
 
     // 사진 찍는 멤버
